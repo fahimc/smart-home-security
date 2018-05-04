@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fahimc/smart-home-security/issues"
   },
-  "homepage": "https://github.com/fahimc/smart-home-security#readme"
+  "homepage": "https://github.com/fahimc/smart-home-security#readme",
+  "dependencies": {
+    "rpi-gpio": "^0.9.1"
+  }
 }
