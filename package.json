@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fahimc/smart-home-security#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "rpi-gpio": "^0.9.1"
   }
 }
